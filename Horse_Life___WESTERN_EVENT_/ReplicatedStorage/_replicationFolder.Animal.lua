@@ -1,3 +1,0 @@
--- https://lua.expert/
--- decompilation timed out
--- the script may be too large or complex

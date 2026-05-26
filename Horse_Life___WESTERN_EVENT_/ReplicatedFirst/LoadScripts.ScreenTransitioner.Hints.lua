@@ -1,2 +1,0 @@
--- https://lua.expert/
-return { "Feeding your horse their <i>favorite</i> treat will boost their bond!", "Brushing your horse daily keeps their coat shiny and their mood high.", "Different breeds excel in different disciplines \226\128\148 try a few before settling on a favorite.", "Visit the Market Realm to trade with other riders for rare coat colors.", "Daily quests are the fastest way to stack up coins early on.", "Whistle to summon your horse from anywhere on the map.", "Some horses gallop faster in the rain \226\128\148 keep an eye on the weather!" }
