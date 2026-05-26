@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Slugger.Baseball Bat contains empty bytecode

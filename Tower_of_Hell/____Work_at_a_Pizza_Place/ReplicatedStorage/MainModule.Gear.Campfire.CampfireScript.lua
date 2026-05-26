@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Campfire.CampfireScript contains empty bytecode

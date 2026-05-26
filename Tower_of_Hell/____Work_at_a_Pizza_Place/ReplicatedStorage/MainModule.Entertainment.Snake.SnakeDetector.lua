@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Snake.SnakeDetector contains empty bytecode

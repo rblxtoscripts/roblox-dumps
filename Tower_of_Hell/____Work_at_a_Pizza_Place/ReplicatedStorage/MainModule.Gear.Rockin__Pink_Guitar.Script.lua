@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Rockin' Pink Guitar.Script contains empty bytecode

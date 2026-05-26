@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Verified Gift of Legitimacy.NewPresentServer contains empty bytecode

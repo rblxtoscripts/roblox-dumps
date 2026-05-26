@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Wintery Gift of Thanks.NewPresentServer contains empty bytecode

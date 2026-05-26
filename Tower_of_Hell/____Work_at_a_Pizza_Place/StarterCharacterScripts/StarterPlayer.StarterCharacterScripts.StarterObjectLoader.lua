@@ -1,0 +1,1 @@
+-- StarterPlayer.StarterCharacterScripts.StarterObjectLoader contains empty bytecode

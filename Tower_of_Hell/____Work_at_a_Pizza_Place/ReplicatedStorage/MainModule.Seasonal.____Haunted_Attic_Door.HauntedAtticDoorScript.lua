@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Haunted Attic Door.HauntedAtticDoorScript contains empty bytecode

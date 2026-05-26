@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Grill.GrillScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- Workspace.KrustyKrab.KrustyKrab contains empty bytecode

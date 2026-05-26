@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Teddy Bloxpin.TeddyScript contains empty bytecode

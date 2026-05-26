@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Varknox Lamp.LampScript contains empty bytecode

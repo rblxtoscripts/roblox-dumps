@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Medieval Lantern.LampScript contains empty bytecode

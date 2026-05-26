@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Whoopie.WhoopieScript contains empty bytecode

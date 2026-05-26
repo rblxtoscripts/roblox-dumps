@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎄North Pole Lantern.LampScript contains empty bytecode

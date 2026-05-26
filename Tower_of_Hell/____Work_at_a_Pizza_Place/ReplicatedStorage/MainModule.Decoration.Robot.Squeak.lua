@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Robot.Squeak contains empty bytecode

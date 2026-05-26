@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Dojo Ceiling Lantern.LampScript contains empty bytecode

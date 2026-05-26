@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Traffic Light.Traffic Light contains empty bytecode

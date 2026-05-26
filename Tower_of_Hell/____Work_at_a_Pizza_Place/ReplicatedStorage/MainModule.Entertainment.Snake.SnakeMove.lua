@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Snake.SnakeMove contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.HangGlider.MineScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Stage Lights.LampScript contains empty bytecode

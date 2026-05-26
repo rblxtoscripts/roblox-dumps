@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Hot Dog.ContestScript contains empty bytecode

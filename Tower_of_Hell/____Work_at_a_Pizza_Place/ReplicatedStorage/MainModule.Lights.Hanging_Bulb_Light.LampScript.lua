@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Hanging Bulb Light.LampScript contains empty bytecode

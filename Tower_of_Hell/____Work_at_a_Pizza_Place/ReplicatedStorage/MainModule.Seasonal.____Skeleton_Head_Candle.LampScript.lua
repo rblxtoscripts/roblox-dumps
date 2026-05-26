@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Skeleton Head Candle.LampScript contains empty bytecode

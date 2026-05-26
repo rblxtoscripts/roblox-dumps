@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Blink Lantern.LampScript contains empty bytecode

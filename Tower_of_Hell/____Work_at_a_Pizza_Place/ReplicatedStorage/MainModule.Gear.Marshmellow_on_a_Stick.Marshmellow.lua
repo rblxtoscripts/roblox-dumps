@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Marshmellow on a Stick.Marshmellow contains empty bytecode

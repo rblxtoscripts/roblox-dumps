@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Suitcase.SuitcaseScript contains empty bytecode

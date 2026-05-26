@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Cup.CupScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Pink Microwave.Microwave contains empty bytecode

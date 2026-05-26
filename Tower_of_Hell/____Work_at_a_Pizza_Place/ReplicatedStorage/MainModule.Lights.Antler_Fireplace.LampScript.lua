@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Antler Fireplace.LampScript contains empty bytecode

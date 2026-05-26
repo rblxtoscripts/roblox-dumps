@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Tot Ceiling Light.LampScript contains empty bytecode

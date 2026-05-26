@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🦃Candelabra.LampScript contains empty bytecode

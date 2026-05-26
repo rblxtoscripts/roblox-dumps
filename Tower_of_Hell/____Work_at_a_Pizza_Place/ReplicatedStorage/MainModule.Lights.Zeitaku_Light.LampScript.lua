@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Zeitaku Light.LampScript contains empty bytecode

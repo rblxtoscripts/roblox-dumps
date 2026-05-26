@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Stainless Sink.KitchenSink contains empty bytecode

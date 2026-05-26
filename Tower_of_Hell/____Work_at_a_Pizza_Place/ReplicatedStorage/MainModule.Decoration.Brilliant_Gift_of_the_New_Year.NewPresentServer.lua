@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Brilliant Gift of the New Year.NewPresentServer contains empty bytecode

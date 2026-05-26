@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Doors.Door.Script contains empty bytecode

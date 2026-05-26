@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Fire Extinguisher.ExtinguishScript contains empty bytecode

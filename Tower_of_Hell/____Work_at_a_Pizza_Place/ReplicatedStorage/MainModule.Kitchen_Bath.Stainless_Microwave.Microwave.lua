@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Stainless Microwave.Microwave contains empty bytecode

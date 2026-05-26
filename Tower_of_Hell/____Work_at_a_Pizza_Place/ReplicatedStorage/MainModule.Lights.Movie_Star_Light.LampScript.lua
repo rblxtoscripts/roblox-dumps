@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Movie Star Light.LampScript contains empty bytecode

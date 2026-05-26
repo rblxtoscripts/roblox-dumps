@@ -1,0 +1,1 @@
+-- Workspace.Trash.Delete.DeleteTrash contains empty bytecode

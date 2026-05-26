@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Leggy Lamp.LampScript contains empty bytecode

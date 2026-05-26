@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Church Window.LampScript contains empty bytecode

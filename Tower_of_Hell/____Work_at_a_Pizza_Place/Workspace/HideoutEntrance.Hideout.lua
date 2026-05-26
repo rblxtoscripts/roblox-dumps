@@ -1,0 +1,1 @@
+-- Workspace.HideoutEntrance.Hideout contains empty bytecode

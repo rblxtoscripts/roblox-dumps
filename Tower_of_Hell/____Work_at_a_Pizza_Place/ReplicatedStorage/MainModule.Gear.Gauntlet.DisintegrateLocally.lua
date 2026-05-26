@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Gauntlet.DisintegrateLocally contains empty bytecode

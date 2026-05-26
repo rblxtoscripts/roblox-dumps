@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Antler Chandelier.LampScript contains empty bytecode

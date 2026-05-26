@@ -1,0 +1,1 @@
+-- Workspace.ManagerLamp.ManagerOfficeLamp contains empty bytecode

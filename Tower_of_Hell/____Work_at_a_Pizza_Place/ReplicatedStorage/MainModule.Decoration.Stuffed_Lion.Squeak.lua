@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Stuffed Lion.Squeak contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Axe.AxeScript contains empty bytecode

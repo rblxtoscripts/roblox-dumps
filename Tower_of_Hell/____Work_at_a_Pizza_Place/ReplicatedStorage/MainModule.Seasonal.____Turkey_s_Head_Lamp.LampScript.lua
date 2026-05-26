@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🦃Turkey's Head Lamp.LampScript contains empty bytecode

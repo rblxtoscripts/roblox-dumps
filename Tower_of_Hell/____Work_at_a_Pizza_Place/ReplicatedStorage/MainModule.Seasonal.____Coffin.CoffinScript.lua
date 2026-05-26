@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Coffin.CoffinScript contains empty bytecode

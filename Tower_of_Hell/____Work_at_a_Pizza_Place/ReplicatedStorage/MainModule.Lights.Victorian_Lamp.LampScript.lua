@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Victorian Lamp.LampScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Katana.KatanaScript contains empty bytecode

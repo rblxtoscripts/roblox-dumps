@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Festive Gift of Impossibility.NewPresentServer contains empty bytecode

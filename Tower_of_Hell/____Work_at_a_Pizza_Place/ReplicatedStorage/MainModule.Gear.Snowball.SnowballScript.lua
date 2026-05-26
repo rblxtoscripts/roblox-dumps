@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Snowball.SnowballScript contains empty bytecode

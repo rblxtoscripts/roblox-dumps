@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Hair dryer.Hairdryer contains empty bytecode

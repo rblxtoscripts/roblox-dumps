@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Hammock Crate.HammockCrate contains empty bytecode

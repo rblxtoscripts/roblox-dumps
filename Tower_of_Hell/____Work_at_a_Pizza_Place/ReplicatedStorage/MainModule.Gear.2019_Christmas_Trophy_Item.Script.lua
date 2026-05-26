@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.2019 Christmas Trophy Item.Script contains empty bytecode

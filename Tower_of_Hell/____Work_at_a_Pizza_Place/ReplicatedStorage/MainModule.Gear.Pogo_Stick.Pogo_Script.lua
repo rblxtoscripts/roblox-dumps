@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Pogo Stick.Pogo Script contains empty bytecode

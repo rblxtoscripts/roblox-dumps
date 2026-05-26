@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Beryl Gift of Ambassador.NewPresentServer contains empty bytecode

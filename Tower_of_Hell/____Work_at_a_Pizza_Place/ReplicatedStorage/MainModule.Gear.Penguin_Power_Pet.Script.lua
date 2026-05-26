@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Penguin Power Pet.Script contains empty bytecode

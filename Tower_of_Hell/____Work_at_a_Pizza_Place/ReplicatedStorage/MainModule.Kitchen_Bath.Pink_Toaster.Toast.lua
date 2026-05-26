@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Pink Toaster.Toast contains empty bytecode

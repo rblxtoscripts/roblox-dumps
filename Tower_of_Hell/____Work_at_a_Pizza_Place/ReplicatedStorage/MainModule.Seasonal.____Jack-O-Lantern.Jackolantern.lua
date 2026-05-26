@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Jack-O-Lantern.Jackolantern contains empty bytecode

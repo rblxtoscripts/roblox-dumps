@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Coin Chest.Coin Chest contains empty bytecode

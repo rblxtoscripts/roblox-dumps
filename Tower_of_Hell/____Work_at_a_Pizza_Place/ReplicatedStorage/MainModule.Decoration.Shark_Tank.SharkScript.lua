@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Shark Tank.SharkScript contains empty bytecode

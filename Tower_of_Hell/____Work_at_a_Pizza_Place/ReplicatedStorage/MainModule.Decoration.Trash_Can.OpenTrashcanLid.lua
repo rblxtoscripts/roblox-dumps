@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Trash Can.OpenTrashcanLid contains empty bytecode

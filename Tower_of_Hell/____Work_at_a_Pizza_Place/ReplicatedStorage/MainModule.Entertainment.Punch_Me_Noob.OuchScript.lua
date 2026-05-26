@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Punch Me Noob.OuchScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.BANG!.BangScript contains empty bytecode

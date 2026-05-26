@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.MoneyBag.MoneybagServer contains empty bytecode

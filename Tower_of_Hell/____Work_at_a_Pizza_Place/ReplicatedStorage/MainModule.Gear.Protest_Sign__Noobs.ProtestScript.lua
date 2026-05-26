@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Protest Sign: Noobs.ProtestScript contains empty bytecode

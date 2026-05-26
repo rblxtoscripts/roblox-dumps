@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Hedgehog Friend.Script contains empty bytecode

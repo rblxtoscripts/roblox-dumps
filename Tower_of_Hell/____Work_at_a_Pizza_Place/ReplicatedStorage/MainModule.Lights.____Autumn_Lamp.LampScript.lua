@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.🍂Autumn Lamp.LampScript contains empty bytecode

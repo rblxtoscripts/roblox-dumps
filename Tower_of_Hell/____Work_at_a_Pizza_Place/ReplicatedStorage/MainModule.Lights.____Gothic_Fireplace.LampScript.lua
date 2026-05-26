@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.🎃Gothic Fireplace.LampScript contains empty bytecode

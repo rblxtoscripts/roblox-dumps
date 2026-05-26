@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Outdoors Campfire.LampScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Lantern.Lantern contains empty bytecode

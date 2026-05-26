@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Tent.TentScript contains empty bytecode

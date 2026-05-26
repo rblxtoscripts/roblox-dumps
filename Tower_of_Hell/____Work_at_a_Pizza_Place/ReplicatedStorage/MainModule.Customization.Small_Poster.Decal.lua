@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Customization.Small Poster.Decal contains empty bytecode

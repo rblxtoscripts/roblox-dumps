@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Linked Sword.SwordScript contains empty bytecode

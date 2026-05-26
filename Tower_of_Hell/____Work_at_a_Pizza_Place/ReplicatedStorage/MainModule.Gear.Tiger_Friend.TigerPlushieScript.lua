@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Tiger Friend.TigerPlushieScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Halloween 2018 Trophy Item.WeldScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Pumpkin Witch Lamp.LampScript contains empty bytecode

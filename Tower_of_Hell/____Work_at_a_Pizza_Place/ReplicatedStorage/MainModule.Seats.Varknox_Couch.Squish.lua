@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seats.Varknox Couch.Squish contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Customization.Sign.SignScript contains empty bytecode

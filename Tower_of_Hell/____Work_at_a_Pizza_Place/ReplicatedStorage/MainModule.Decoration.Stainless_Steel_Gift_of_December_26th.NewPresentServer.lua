@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Stainless Steel Gift of December 26th.NewPresentServer contains empty bytecode

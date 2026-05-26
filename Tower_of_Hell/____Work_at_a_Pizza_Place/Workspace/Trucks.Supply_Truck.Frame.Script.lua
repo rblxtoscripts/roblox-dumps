@@ -1,0 +1,1 @@
+-- Workspace.Trucks.Supply Truck.Frame.Script contains empty bytecode

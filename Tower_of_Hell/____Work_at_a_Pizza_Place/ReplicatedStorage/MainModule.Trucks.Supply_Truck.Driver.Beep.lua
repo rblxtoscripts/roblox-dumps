@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Trucks.Supply Truck.Driver.Beep contains empty bytecode

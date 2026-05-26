@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Fire Breath.Script contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Snowpacalypse Gift of December 26th.NewPresentServer contains empty bytecode

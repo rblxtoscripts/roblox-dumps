@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Modern Lamp.LampScript contains empty bytecode

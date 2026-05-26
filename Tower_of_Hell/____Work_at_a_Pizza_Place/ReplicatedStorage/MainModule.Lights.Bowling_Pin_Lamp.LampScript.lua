@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Bowling Pin Lamp.LampScript contains empty bytecode

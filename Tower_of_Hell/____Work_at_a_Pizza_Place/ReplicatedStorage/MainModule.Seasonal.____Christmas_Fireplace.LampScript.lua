@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎄Christmas Fireplace.LampScript contains empty bytecode

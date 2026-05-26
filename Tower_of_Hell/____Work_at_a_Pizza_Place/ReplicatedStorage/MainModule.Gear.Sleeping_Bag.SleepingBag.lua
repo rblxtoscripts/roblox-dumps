@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Sleeping Bag.SleepingBag contains empty bytecode

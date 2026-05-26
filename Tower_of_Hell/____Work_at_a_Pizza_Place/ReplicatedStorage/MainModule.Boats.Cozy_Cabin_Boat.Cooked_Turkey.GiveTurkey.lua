@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Boats.Cozy Cabin Boat.Cooked Turkey.GiveTurkey contains empty bytecode

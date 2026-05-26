@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Cooler.CoolerScript contains empty bytecode

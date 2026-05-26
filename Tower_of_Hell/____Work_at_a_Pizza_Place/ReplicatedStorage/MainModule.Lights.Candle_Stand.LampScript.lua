@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Candle Stand.LampScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Modern Dresser.Modern Dresser Drawer contains empty bytecode

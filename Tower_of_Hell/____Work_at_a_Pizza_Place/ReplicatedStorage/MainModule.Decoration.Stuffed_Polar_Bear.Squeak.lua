@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Stuffed Polar Bear.Squeak contains empty bytecode

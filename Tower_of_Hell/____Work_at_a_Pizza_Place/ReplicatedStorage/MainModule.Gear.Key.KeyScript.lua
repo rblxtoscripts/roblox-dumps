@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Key.KeyScript contains empty bytecode

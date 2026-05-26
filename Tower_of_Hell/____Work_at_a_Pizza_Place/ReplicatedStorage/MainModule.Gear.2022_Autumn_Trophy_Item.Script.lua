@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.2022 Autumn Trophy Item.Script contains empty bytecode

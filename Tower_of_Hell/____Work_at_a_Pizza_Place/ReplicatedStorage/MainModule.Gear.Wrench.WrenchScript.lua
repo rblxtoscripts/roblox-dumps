@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Wrench.WrenchScript contains empty bytecode

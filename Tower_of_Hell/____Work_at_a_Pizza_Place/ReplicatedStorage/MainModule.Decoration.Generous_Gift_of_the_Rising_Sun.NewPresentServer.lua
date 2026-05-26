@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Generous Gift of the Rising Sun.NewPresentServer contains empty bytecode

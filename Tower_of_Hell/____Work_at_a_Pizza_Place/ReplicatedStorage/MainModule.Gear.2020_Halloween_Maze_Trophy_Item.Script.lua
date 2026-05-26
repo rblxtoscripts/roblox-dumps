@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.2020 Halloween Maze Trophy Item.Script contains empty bytecode

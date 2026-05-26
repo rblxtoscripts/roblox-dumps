@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Football.Football contains empty bytecode

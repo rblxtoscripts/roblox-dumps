@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.Sky World Lamp.LampScript contains empty bytecode

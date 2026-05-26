@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Stainless Stove.StoveScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Spider Bed.SpiderBed contains empty bytecode

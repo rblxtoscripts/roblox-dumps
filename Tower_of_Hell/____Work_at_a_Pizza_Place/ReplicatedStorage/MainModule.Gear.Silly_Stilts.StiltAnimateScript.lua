@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Silly Stilts.StiltAnimateScript contains empty bytecode

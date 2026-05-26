@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Handy Candy.Hnady Candy contains empty bytecode

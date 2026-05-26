@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Epic Sauce.SpeedEffect contains empty bytecode

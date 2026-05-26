@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Flamethrower.Flamethrower contains empty bytecode

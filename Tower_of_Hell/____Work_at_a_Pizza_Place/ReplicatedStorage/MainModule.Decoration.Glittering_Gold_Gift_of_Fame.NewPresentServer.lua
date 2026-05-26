@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Glittering Gold Gift of Fame.NewPresentServer contains empty bytecode

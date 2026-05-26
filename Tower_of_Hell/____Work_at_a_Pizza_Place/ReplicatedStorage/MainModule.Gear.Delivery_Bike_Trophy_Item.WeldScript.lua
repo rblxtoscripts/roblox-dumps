@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Delivery Bike Trophy Item.WeldScript contains empty bytecode

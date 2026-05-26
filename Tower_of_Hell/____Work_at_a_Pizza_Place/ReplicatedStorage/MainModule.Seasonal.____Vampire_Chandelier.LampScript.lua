@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Vampire Chandelier.LampScript contains empty bytecode

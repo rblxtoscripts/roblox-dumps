@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Princess Pony.PonyDetector contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Princess Pony.Weld contains empty bytecode

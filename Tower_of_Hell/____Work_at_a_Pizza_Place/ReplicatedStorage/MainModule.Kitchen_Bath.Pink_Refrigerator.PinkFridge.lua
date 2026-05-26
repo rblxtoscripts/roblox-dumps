@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Pink Refrigerator.PinkFridge contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Decoration.Restricted Gift of Short Supply.NewPresentServer contains empty bytecode

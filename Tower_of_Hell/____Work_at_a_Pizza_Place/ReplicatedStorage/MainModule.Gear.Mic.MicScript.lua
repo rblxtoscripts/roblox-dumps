@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Mic.MicScript contains empty bytecode

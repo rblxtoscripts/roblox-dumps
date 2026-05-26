@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Pink Sink.Pinksink contains empty bytecode

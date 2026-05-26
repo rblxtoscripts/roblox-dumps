@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Watergun.WatergunScript contains empty bytecode

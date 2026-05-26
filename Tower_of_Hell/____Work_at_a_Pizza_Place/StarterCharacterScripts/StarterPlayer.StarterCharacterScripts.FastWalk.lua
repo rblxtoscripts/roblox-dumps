@@ -1,0 +1,1 @@
+-- StarterPlayer.StarterCharacterScripts.FastWalk contains empty bytecode

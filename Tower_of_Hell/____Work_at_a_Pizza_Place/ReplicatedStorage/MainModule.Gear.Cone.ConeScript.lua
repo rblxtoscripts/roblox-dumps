@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Cone.ConeScript contains empty bytecode

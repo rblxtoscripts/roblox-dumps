@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.🎃Gothic Candelabra.LampScript2 contains empty bytecode

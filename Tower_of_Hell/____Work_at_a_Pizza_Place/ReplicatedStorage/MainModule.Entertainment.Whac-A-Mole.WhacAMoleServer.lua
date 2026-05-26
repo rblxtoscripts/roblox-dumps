@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Whac-A-Mole.WhacAMoleServer contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Treat Bowl.TreatBowl contains empty bytecode

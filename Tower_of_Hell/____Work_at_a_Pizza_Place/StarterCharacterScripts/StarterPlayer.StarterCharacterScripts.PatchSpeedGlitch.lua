@@ -1,0 +1,1 @@
+-- StarterPlayer.StarterCharacterScripts.PatchSpeedGlitch contains empty bytecode

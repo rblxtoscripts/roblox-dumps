@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Customization.Pixel Art Canvas.Canvas contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Lights.❄️Cabin Fireplace.LampScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- Workspace.Teleport to Party Island.Head.PartyIslandTeleport contains empty bytecode

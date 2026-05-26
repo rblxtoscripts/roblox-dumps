@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Pen and Paper.PenandPaper contains empty bytecode

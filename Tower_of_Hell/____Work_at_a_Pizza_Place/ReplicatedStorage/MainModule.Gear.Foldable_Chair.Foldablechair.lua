@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Foldable Chair.Foldablechair contains empty bytecode

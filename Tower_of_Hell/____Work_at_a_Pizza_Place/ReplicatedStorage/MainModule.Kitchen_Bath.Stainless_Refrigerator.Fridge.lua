@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Kitchen/Bath.Stainless Refrigerator.Fridge contains empty bytecode

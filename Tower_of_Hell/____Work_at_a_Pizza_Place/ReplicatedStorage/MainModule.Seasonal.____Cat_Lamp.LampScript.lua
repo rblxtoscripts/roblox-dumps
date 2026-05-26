@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Cat Lamp.LampScript contains empty bytecode

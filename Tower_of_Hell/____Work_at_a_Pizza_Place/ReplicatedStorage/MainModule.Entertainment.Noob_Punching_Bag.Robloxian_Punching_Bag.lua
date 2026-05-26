@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Noob Punching Bag.Robloxian Punching Bag contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Gear.Weight.WeightScript contains empty bytecode

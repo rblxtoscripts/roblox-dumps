@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Boo's Cauldron.BooCauldron contains empty bytecode

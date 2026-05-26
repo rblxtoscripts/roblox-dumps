@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Seasonal.🎃Harmless Chair.HarmlessChair contains empty bytecode

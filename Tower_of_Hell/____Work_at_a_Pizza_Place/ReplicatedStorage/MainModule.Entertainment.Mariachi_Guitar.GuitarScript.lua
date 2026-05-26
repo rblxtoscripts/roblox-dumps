@@ -1,0 +1,1 @@
+-- ReplicatedStorage.MainModule.Entertainment.Mariachi Guitar.GuitarScript contains empty bytecode
