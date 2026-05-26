@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Glowing Speed Coil contains empty bytecode

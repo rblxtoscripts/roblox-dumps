@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.bomb.Script contains empty bytecode

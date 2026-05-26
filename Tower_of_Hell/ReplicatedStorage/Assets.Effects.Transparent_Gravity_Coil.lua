@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Transparent Gravity Coil contains empty bytecode

@@ -1,0 +1,1 @@
+-- Workspace.pNecwcw.hitboxScript contains empty bytecode

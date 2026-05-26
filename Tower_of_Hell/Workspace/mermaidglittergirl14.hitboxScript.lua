@@ -1,0 +1,1 @@
+-- mermaidglittergirl14.hitboxScript contains empty bytecode

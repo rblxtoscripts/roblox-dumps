@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Cat Tail contains empty bytecode

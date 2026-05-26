@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Rusted Hook contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.cola.BloxyColaScript contains empty bytecode

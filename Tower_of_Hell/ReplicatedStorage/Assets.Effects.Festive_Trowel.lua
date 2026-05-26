@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Festive Trowel contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Cat Ears contains empty bytecode

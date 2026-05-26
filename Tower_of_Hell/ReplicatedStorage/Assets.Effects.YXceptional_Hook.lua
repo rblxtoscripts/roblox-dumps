@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.YXceptional Hook contains empty bytecode

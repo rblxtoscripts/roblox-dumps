@@ -1,0 +1,1 @@
+-- Workspace.Josieeeeeeee187.hitboxScript contains empty bytecode

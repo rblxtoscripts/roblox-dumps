@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Walnut Hourglass contains empty bytecode

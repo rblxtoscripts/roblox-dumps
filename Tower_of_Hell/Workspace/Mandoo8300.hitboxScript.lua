@@ -1,0 +1,1 @@
+-- Workspace.Mandoo8300.hitboxScript contains empty bytecode

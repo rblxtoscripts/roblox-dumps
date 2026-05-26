@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.jump.ColorManager contains empty bytecode

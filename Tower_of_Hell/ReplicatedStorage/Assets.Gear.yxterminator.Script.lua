@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.yxterminator.Script contains empty bytecode

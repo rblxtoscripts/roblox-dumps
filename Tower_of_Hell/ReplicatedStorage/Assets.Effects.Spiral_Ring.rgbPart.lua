@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Spiral Ring.rgbPart contains empty bytecode

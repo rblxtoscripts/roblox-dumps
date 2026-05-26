@@ -1,0 +1,1 @@
+-- Workspace.tower.sections.lobby.shop.MiniVault.Door.Script contains empty bytecode

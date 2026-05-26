@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Candy Fusion Coil contains empty bytecode

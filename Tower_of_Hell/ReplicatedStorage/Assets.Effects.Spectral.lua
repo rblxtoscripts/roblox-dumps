@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Spectral contains empty bytecode

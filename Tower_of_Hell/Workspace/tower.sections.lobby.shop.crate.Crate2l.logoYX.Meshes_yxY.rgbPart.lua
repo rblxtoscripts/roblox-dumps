@@ -1,0 +1,1 @@
+-- Workspace.tower.sections.lobby.shop.crate.Crate2l.logoYX.Meshes/yxY.rgbPart contains empty bytecode

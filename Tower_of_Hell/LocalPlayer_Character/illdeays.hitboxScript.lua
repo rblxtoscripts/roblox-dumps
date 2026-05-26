@@ -1,0 +1,1 @@
+-- illdeays.hitboxScript contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Transparent Fusion Coil contains empty bytecode

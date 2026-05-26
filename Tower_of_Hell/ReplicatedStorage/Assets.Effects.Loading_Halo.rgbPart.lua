@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Loading Halo.rgbPart contains empty bytecode

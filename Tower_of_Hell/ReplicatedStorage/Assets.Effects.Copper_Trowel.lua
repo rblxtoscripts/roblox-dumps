@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Copper Trowel contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.White Hook contains empty bytecode

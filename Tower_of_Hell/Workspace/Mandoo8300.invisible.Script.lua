@@ -1,0 +1,1 @@
+-- Workspace.Mandoo8300.invisible.Script contains empty bytecode

@@ -1,0 +1,1 @@
+-- blackdecker2626.hitboxScript contains empty bytecode

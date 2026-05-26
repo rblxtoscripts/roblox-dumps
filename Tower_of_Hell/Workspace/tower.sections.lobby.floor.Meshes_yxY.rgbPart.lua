@@ -1,0 +1,1 @@
+-- Workspace.tower.sections.lobby.floor.Meshes/yxY.rgbPart contains empty bytecode

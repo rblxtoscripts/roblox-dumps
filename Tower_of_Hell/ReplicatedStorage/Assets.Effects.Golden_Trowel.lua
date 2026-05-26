@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Golden Trowel contains empty bytecode

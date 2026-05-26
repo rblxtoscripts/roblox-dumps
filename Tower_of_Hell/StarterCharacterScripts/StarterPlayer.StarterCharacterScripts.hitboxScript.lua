@@ -1,0 +1,1 @@
+-- StarterPlayer.StarterCharacterScripts.hitboxScript contains empty bytecode

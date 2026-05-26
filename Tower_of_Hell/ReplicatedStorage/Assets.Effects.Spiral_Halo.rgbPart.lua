@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Spiral Halo.rgbPart contains empty bytecode

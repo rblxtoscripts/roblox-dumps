@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Magma Trowel contains empty bytecode

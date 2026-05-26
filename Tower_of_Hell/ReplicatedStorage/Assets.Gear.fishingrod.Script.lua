@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.fishingrod.Script contains empty bytecode

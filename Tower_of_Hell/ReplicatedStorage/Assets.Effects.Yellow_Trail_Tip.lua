@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Yellow Trail Tip contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.banana.Banan contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Cherry Hourglass contains empty bytecode

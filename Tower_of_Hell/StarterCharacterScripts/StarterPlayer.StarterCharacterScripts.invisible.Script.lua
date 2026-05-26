@@ -1,0 +1,1 @@
+-- StarterPlayer.StarterCharacterScripts.invisible.Script contains empty bytecode

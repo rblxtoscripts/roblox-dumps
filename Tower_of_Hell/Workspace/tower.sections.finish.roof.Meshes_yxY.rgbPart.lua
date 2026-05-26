@@ -1,0 +1,1 @@
+-- Workspace.tower.sections.finish.roof.Meshes/yxY.rgbPart contains empty bytecode

@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Black Hourglass Sand contains empty bytecode

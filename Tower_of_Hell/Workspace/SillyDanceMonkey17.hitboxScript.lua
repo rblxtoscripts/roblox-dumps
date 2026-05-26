@@ -1,0 +1,1 @@
+-- SillyDanceMonkey17.hitboxScript contains empty bytecode

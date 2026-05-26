@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Green Hook contains empty bytecode

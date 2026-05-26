@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Leaf Trowel contains empty bytecode

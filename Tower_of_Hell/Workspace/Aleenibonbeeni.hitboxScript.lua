@@ -1,0 +1,1 @@
+-- Aleenibonbeeni.hitboxScript contains empty bytecode

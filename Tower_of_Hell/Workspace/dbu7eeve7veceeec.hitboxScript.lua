@@ -1,0 +1,1 @@
+-- dbu7eeve7veceeec.hitboxScript contains empty bytecode

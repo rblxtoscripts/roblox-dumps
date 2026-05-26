@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Orange Trail Tip contains empty bytecode

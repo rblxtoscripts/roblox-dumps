@@ -1,0 +1,1 @@
+-- Gizmokinzlee1.hitboxScript contains empty bytecode

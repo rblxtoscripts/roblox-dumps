@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.YXceptional Trowel contains empty bytecode

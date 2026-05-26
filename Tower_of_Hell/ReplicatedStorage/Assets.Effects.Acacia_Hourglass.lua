@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Acacia Hourglass contains empty bytecode

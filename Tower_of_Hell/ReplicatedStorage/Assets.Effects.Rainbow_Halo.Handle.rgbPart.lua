@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Rainbow Halo.Handle.rgbPart contains empty bytecode

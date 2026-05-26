@@ -1,0 +1,1 @@
+-- Workspace.tower.sections.lobby.shop.crate.Script contains empty bytecode

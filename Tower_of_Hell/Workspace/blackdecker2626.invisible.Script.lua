@@ -1,0 +1,1 @@
+-- blackdecker2626.invisible.Script contains empty bytecode

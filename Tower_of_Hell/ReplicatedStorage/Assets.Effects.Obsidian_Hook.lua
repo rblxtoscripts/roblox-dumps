@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Effects.Obsidian Hook contains empty bytecode

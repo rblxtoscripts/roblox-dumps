@@ -1,0 +1,1 @@
+-- Workspace.Andreplays00.hitboxScript contains empty bytecode

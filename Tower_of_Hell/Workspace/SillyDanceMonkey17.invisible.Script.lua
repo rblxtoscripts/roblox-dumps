@@ -1,0 +1,1 @@
+-- SillyDanceMonkey17.invisible.Script contains empty bytecode

@@ -1,0 +1,1 @@
+-- Workspace.pNecwcw.invisible.Script contains empty bytecode

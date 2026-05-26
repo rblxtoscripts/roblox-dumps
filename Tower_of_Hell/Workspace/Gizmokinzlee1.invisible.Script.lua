@@ -1,0 +1,1 @@
+-- Gizmokinzlee1.invisible.Script contains empty bytecode

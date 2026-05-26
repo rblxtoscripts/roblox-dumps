@@ -1,0 +1,1 @@
+-- ReplicatedStorage.Assets.Gear.speed.ColorManager contains empty bytecode

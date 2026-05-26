@@ -1,0 +1,1 @@
+-- Workspace.Andreplays00.invisible.Script contains empty bytecode
