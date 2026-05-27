@@ -1,0 +1,1 @@
+-- Workspace.Lobby.Gameplay.Event Teleport.Model.Meshes/3D Arrow.Script contains empty bytecode

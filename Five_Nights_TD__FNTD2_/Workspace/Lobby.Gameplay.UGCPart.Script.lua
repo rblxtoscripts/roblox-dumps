@@ -1,0 +1,1 @@
+-- Workspace.Lobby.Gameplay.UGCPart.Script contains empty bytecode

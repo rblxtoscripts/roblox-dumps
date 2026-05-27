@@ -1,0 +1,1 @@
+-- Workspace.Lobby.Gameplay.Quests.Touchpad.QuestsTouch.Script contains empty bytecode

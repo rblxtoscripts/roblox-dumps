@@ -1,0 +1,1 @@
+-- Workspace.ToFNTD2.Endless.EventTeleport contains empty bytecode

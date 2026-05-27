@@ -1,0 +1,1 @@
+-- Workspace.Lobby.Decoration.MainLobby.SitPart.Script contains empty bytecode
