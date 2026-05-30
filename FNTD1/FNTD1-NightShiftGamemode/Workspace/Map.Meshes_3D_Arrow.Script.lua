@@ -1,0 +1,1 @@
+-- Workspace.Map.Meshes/3D Arrow.Script contains empty bytecode
