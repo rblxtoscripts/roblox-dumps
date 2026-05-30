@@ -1,1 +1,0 @@
--- Workspace.Lobby.Gameplay.Group Reward.Touchpad.QuestsTouch.Script contains empty bytecode

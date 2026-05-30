@@ -1,1 +1,0 @@
--- Workspace.Lobby.EventTP.EventTeleport contains empty bytecode

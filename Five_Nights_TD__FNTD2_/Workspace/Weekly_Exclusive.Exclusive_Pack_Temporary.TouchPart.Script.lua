@@ -1,1 +1,0 @@
--- Workspace.Weekly Exclusive.Exclusive Pack Temporary.TouchPart.Script contains empty bytecode

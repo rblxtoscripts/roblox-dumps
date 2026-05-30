@@ -1,1 +1,0 @@
--- Workspace.Lobby.Decoration.MainLobby.Meshes/3D Arrow.Script contains empty bytecode
