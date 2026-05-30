@@ -1,0 +1,1 @@
+-- Workspace.Lobby.Gameplay.Merchant.TouchPart.Script contains empty bytecode

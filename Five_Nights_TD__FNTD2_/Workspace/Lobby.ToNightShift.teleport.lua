@@ -1,0 +1,1 @@
+-- Workspace.Lobby.ToNightShift.teleport contains empty bytecode
