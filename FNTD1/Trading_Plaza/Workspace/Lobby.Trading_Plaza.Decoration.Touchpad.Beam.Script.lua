@@ -1,0 +1,1 @@
+-- Workspace.Lobby.Trading Plaza.Decoration.Touchpad.Beam.Script contains empty bytecode
